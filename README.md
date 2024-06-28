@@ -10,7 +10,7 @@ and any shows that belong to that service that you'd like to watch. In other wor
 2) Either run the python file off an IDE of your choice OR run it via CMD prompt with `python wanna.py` 
 
 # Example Use Case
-to do
+<img src ="https://github.com/bryan-avila/wanna/blob/main/wanna_example.png" width="1000" height="800">
 
 # Credits
 Thanks to Clear Code for creating a [great tutorial](https://www.youtube.com/watch?v=mop6g-c5HEY) on learning tkinter/ttkboostrap!
