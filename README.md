@@ -6,13 +6,15 @@ and any shows that belong to that service that you'd like to watch. In other wor
 1) Ensure that you pip installed the following:
    * ttkboostrap
    * pymongo
-
-2) Either run the python file off an IDE of your choice OR run it via CMD prompt with `python wanna.py` 
+     
+2) MongoDB is used to store your watchlist information, be sure to [install it](https://www.youtube.com/watch?v=gB6WLkSrtJk)
+   
+3) Either run the python file off an IDE of your choice OR run it via CMD prompt with `python wanna.py` 
 
 # Example Use Case
-<img src ="https://github.com/bryan-avila/wanna/blob/main/wanna_example.png" width="1000" height="800">
+<img src ="https://github.com/bryan-avila/wanna/blob/main/wanna_example.jpg" width="900" height="500">
 
 # Credits
 Thanks to Clear Code for creating a [great tutorial](https://www.youtube.com/watch?v=mop6g-c5HEY) on learning tkinter/ttkboostrap!
 
-**NOTE:** This is app was created for the sole purpose of learning tkinter/ttkboostrap, gaining more experience with Python, and having fun. This not an officially deployed app.  
+**NOTE:** This is app was created for the sole purpose of learning tkinter/ttkboostrap, gaining more experience with Python, and having fun. This is not an officially deployed app.  
