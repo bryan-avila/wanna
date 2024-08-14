@@ -17,4 +17,4 @@ and any shows that belong to that service that you'd like to watch. In other wor
 # Credits
 Thanks to Clear Code for creating a [great tutorial](https://www.youtube.com/watch?v=mop6g-c5HEY) on learning tkinter/ttkboostrap!
 
-**NOTE:** This is app was created for the sole purpose of learning tkinter/ttkboostrap, gaining more experience with Python, and having fun. This is not an officially deployed app.  
+**NOTE:** This app was created for the sole purpose of learning tkinter/ttkboostrap, gaining more experience with Python, and having fun. This is not an officially deployed app.  
